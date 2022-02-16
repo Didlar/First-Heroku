@@ -1,7 +1,7 @@
 {
   "name": "First-Heroku",
   "version": "1.0.0",
-  "description": "",
+  "description": "Heroku",
   "main": "index.js",
   "scripts": {
     "start": "cd server && npm start",
